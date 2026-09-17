@@ -19,6 +19,6 @@
 <details>
   <summary> <p align="right"> ${\textsf{more}}$ </summary>
 <p align="right">
-text text text
+u wish
   </p>
 </details>
