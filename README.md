@@ -5,9 +5,9 @@
 <table>
     <tr>
       <td>
-          ${\textsf{\color{#ffffff}pav}}$
+          ${\textsf{pav}}$
      ${\textsf{\color{#acacac}hehim}}$
-   ${\textsf{\color{#ffffff}19}}$ <br>
+   ${\textsf{19}}$ <br>
       </td>
     </tr>
   </table>
@@ -17,7 +17,7 @@
 <div align="right"> 
 
 <details>
-  <summary> <p align="right"> ${\textsf{\color{#ffffff}more}}$ </summary>
+  <summary> <p align="right"> ${\textsf{more}}$ </summary>
 <p align="right">
 text text text
   </p>
