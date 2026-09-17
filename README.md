@@ -5,9 +5,9 @@
 <table>
     <tr>
       <td>
-          ${\textsf{\color{#ffffff}text}}$
-     ${\textsf{\color{#acacac}text}}$
-   ${\textsf{\color{#ffffff}text}}$ <br>
+          ${\textsf{\color{#ffffff}pav}}$
+     ${\textsf{\color{#acacac}hehim}}$
+   ${\textsf{\color{#ffffff}19}}$ <br>
       </td>
     </tr>
   </table>
