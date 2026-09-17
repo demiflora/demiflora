@@ -1,13 +1,20 @@
-<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_3831.jpeg" width="275" align="left">
+<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4188.jpeg" width="300" align="left">
 
-![](https://komarev.com/ghpvc/?username=ennlo&color=EEECE4&style=flat-square&label=　+　+　+　+　+　+　+　+　+　+　+　+　+　+　) 　　　　　　![](https://github.com/user-attachments/assets/590092d9-c658-4f8e-8d2a-a9393e8ac0ba)
+![](https://komarev.com/ghpvc/?username=ennlo&color=acacac&style=flat-square&label=　+　+　+　+　+　+　+　+　+　+　+　+　+　+　)
 
 <table>
     <tr>
       <td>
-          ${\textsf{\color{#eeece4}𖣐 }}$
-     ${\textsf{\color{#767676}is it wickedness?}}$　 
-   ${\textsf{\color{#eeece4} is  it  weakness?}}$ <br>
+          ${\textsf{\color{#ffffff}text}}$
+     ${\textsf{\color{#acacac}text}}$
+   ${\textsf{\color{#ffffff}text}}$ <br>
       </td>
     </tr>
   </table>
+
+<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4186.jpeg" width="300" align="right">
+
+<div align="center">
+    
+        can we pretend that there are infos here
+belele
