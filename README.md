@@ -1,4 +1,4 @@
-<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4188.jpeg" width="300" align="left">
+<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4210.png" width="300" align="left">
 
 ![](https://komarev.com/ghpvc/?username=ennlo&color=acacac&style=flat-square&label=)
 
@@ -12,7 +12,7 @@
     </tr>
   </table>
 
-<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4186.jpeg" width="300" align="right">
+<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4209.png" width="300" align="right">
 
 <div align="right"> 
 
