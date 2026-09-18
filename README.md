@@ -17,8 +17,8 @@
 <div align="right"> 
 
 <details>
-  <summary> <p align="right"> ${\textsf{more}}$ </summary>
+  <summary> <p align="right"> ${\textsf{friends}}$ </summary>
 <p align="right">
-u wish
+<a href="https://github.com/buildermonyaoi">@buildermonyaoi</a> <a href="https://github.com/swoocket">@swoocket</a> <a href="https://github.com/starsour">@starsour</a>
   </p>
 </details>
